@@ -1,7 +1,7 @@
 {
   "default": {
     "sundials": {
-      "baseline": "6.5.0",
+      "baseline": "7.5.0",
       "port-version": 0
     }
   }
